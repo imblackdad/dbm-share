@@ -1,0 +1,15 @@
+{
+    "name": "DBM",
+    "main": "start-index.html",
+    "author": "Robert Borghese",
+    "version": "1.4.2",
+    "window": {
+        "title": "Discord Bot Maker",
+        "show": false,
+        "frame": false,
+        "resizable": false,
+        "width": 270,
+        "height": 290,
+        "icon": "icon.png"
+    }
+}

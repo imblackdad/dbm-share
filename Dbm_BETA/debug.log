@@ -1,0 +1,29 @@
+[0518/224134.854:ERROR:settings.cc(263)] Settings version is not 1
+[0518/224322.976:WARNING:chrome_main_delegate.cc(569)] final extension: .discordbot
+[0518/224332.233:WARNING:chrome_main_delegate.cc(569)] final extension: .discordbot
+[0518/224333.371:ERROR:process_info.cc(349)] VirtualQueryEx: Отказано в доступе. (0x5)
+[0518/224333.371:ERROR:process_info.cc(570)] ReadMemoryInfo failed
+[0518/224333.377:ERROR:process_reader_win.cc(151)] SuspendThread: Отказано в доступе. (0x5)
+[0518/224333.377:ERROR:exception_snapshot_win.cc(87)] thread ID 2548 not found in process
+[0518/224333.377:WARNING:crash_report_exception_handler.cc(62)] ProcessSnapshotWin::Initialize failed
+[0518/224333.378:ERROR:scoped_process_suspend.cc(39)] NtResumeProcess: Попытка доступа к процессу, выполняющему процедуру завершения.  (0xc000010a)
+[0518/232538.933:ERROR:settings.cc(263)] Settings version is not 1
+[0518/233121.800:ERROR:settings.cc(263)] Settings version is not 1
+[0521/205759.587:ERROR:settings.cc(263)] Settings version is not 1
+[0607/201536.815:ERROR:settings.cc(263)] Settings version is not 1
+[0613/233139.462:ERROR:settings.cc(263)] Settings version is not 1
+[0618/204835.889:ERROR:settings.cc(263)] Settings version is not 1
+[0618/210412.321:ERROR:settings.cc(263)] Settings version is not 1
+[0619/145025.808:ERROR:settings.cc(263)] Settings version is not 1
+[0711/151746.818:ERROR:settings.cc(263)] Settings version is not 1
+[0712/000636.049:ERROR:settings.cc(263)] Settings version is not 1
+[0716/190544.531:ERROR:settings.cc(263)] Settings version is not 1
+[0716/192939.800:ERROR:settings.cc(263)] Settings version is not 1
+[0716/193241.047:ERROR:settings.cc(263)] Settings version is not 1
+[0716/201830.139:ERROR:settings.cc(263)] Settings version is not 1
+[0719/144404.174:ERROR:settings.cc(263)] Settings version is not 1
+[0719/232634.239:ERROR:settings.cc(263)] Settings version is not 1
+[0725/210324.258:ERROR:settings.cc(263)] Settings version is not 1
+[0726/184930.740:ERROR:settings.cc(263)] Settings version is not 1
+[1120/003843.981:ERROR:settings.cc(263)] Settings version is not 1
+[1123/210213.083:ERROR:settings.cc(263)] Settings version is not 1
